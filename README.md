@@ -1,6 +1,7 @@
 ### Niotu 🔮
 
-None
+Nothing interesting 
 
-![raian](cool_stuff/rain.gif)
+Now working on Mutual_Meter project
+
 
