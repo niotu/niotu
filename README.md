@@ -1,6 +1,6 @@
 # Niotu 🔮  ![](https://komarev.com/ghpvc/?username=niotu&color=blue)
 
-* Mutual Meter Project done! Check it via the <a href="https://github.com/niotu/Mutual_Meter">link</a>
+<!-- * Mutual Meter Project done! Check it via the <a href="https://github.com/niotu/Mutual_Meter">link</a> -->
 * Now I'm preparing for my exams
 
 
