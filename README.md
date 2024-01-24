@@ -1,9 +1,7 @@
 # Niotu 🔮  ![](https://komarev.com/ghpvc/?username=niotu&color=blue)
 
-* Unnopolis University Bachelor
+* Unnopolis University Student
 * 7th Lyceum's Graduate 
-* IDEA project done. Check it via the <a href="https://github.com/niotu/IDEA_store">link</a>
- 
 
 ***
 
