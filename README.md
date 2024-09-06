@@ -10,13 +10,18 @@ Languages
 - C/C++
 - Python
 - Java
+- JavaScript
+- Dart/Flutter
+- HTML & CSS/SCSS
 
 Frameworks & Technologies
 - QT
 - Flask
+- React Native
 - Aiogramm/Telebot
 - BS4 & Requests
-- Regex
+- Flutter
+- Basic Data Structures & Algorhitms
 
 ***
 
