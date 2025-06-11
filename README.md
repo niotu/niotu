@@ -1,5 +1,7 @@
 # ⚔️ Dmitriy (aka niotu)
 
+![Night animation](cool_stuff/night.gif)
+
 ## 📚 **Education**
 
 - School: Boys-Boarding school №7
@@ -33,3 +35,5 @@ Frameworks & Technologies
 - Open-source collaborations  
 - Projects in mobile, desktop, or web  
 - Opportunities to work with JavaScript/React, Python/FastAPI, or C++/Qt  
+
+
