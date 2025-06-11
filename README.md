@@ -1,28 +1,35 @@
-# Niotu 🔮  ![](https://komarev.com/ghpvc/?username=niotu&color=blue)
+# ⚔️ Dmitriy (aka niotu)
 
-* Unnopolis University
-* Boys-Boarding school "Lyceum #7"
+## 📚 **Education**
 
-### My stack
+- School: Boys-Boarding school №7
+- University: Unnopolis University  
 
-Languages
+## 🧰 **Tech Stack**
 
-- C/C++
+### Languages
+
 - Python
-- Java
 - JavaScript
-- Dart/Flutter
-- HTML & CSS/SCSS
+
+#### Know, but I don't use:
+
+- C / C++  
+- Java  
+- Dart (for Flutter) 
 
 Frameworks & Technologies
-- QT
-- Flask
-- React Native
-- Aiogramm/Telebot
-- BS4 & Requests
-- Flutter
+
+- [React Native](https://react.dev/)
+- [FastAPI](https://fastapi.tiangolo.com)
+- [RPC / gRPC](https://grpc.io/)
+- [Flutter](https://flutter.dev/)
+- [QT](https://www.qt.io/)
+- [Flask](https://flask.palletsprojects.com)
 - Basic Data Structures & Algorhitms
 
-***
+## 🔍 What I’m Looking For
 
-<img src="https://i.pinimg.com/originals/9a/15/0f/9a150f4edf3aaa3b5ec417fc970c5372.gif">
+- Open-source collaborations  
+- Projects in mobile, desktop, or web  
+- Opportunities to work with JavaScript/React, Python/FastAPI, or C++/Qt  
